@@ -1,7 +1,7 @@
 module.exports = {
   title: "AI-assisted Technical Communication",
   description: "一起探索 “AI+技术传播” 的职业新思路",
-  base: "/tutorial-docs/",
+  base: "/vuepress/",
   themeConfig: {
     logo: "/logo.jpeg",
     lastUpdated: "Last Updated", // string | boolean

@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.jpeg
-heroText: AI-assisted Technical Communication
+heroText: AI-assisted Technical Communication-workflow-test
 tagline: 一起探索 “AI+技术传播” 的职业新思路
 actionText: 出发 →
 actionLink: /Reference/tutorial-for-teaching
